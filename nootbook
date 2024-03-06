@@ -18,12 +18,12 @@ We had 11 attributes and 1000 objects.
 | Attributes name         | Description                                                                                                          | Data type |    
 |-------------------------|----------------------------------------------------------------------------------------------------------------------|-----------|
 | id                      | Unique id of the individual                                                                                          | Nominal   | 
-| Genetics                | Indicates whether the individual has a family history of baldness                                                    | Binary    | 
-| age                     | Represents the age of the individual                                                                                 | Intger    | 
-| Hormonal Changes        | Indicates whether the individual has experienced hormonal changes (Yes/No)                                           | Binary    | 
-| Medical Conditions      | Lists specific medical conditions that may contribute to baldness, such as Alopecia Areata, Thyroid Problems, Scalp Infection, Psoriasis, Dermatitis, etc.                                                      | String    |                         
-| Medications & Treatments| Lists medications and treatments that may lead to hair loss, such as Chemotherapy, Heart Medication, Antidepressants, Steroids, etc.                                                                         | String    | 
-| Nutritional Deficiencies| Lists nutritional deficiencies that may contribute to hair loss, such as Iron deficiency,  Vitamin D deficiency, Biotin deficiency, Omega-3 fatty acid deficiency, etc.                                        | String    | 
+| Genetics                | Indicates whether the individual has a family history of baldness (Yes/No).                                          | Binary    | 
+| age                     | Represents the age of the individual [years].                                                                        | Intger    | 
+| Hormonal Changes        | Indicates whether the individual has experienced hormonal changes (Yes/No).                                          | Binary    | 
+| Medical Conditions      | Lists specific medical conditions that may contribute to baldness, such as Alopecia Areata, Thyroid Problems, Scalp Infection, Psoriasis, Dermatitis, etc. [No data,Alopecia Areata,Others]                                     | String    |                         
+| Medications & Treatments| Lists medications and treatments that may lead to hair loss, such as Chemotherapy, Heart Medication, Antidepressants, Steroids, etc. [Rogaine, Antidepressants, Others]                                                         | String    | 
+| Nutritional Deficiencies| Lists nutritional deficiencies that may contribute to hair loss, such as Iron deficiency,  Vitamin D deficiency, Biotin deficiency, Omega-3 fatty acid deficiency, etc. [Zinc Deficiency, Vitamin D Deficiency, Others]         | String    | 
 | Stress                  | Indicates the stress level of the individual (Low/Moderate/High).                                                    | String    | 
 | Poor Hair Care Habits   | Indicates whether the individual practices poor hair care habits (Yes/No).                                           | Binary    | 
 | Environmental Factors   | Indicates whether the individual is exposed to environmental factors that may contribute to hair loss (Yes/No).      | Binary    | 
