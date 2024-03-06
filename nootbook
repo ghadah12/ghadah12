@@ -1,7 +1,6 @@
 # 1- Goal:
 
-Our goal is to engage with the data, explore and analyze it to identify the factors causing hair health problems, direct necessary solutions, and provide recommendations for hair care based on the analyzed data and findings.
-
+Our project aims to use Python and data mining techniques on a hair loss prediction dataset. With attributes like ID, Genetics, Age, Hormonal Changes, Medical Conditions,Medications and Treatments ,Nutritional Deficiencies , Stress, Poor Hair Care Habits, Environmental Factors , and Hair Loss, we'll preprocess the data, apply different mining techniques, compare results, and share our findings on a GitHub repository with Jupyter notebooks. The focus is on creating effective models for hair loss prediction.
 
 # 2- Dataset:
 
