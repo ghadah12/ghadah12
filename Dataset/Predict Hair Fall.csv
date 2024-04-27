@@ -1,4 +1,4 @@
-Id,Genetics,Hormonal Changes,Medical Conditions,Medications & Treatments,Nutritional Deficiencies ,Stress,Age,Poor Hair Care Habits ,Environmental Factors,Smoking,Weight Loss ,Hair Loss
+Id,Genetics,Hormonal Changes,Medical Conditions,Medications & Treatments,NutritionalDeficien,Stress,Age,Poor Hair Care,Environmental Factors,Smoking,WeightLoss,Hair Loss
 133992,Yes,No,No Data,No Data,Magnesium deficiency,Moderate,19,Yes,Yes,No,No,0
 148393,No,No,Eczema,Antibiotics,Magnesium deficiency,High,43,Yes,Yes,No,No,0
 155074,No,No,Dermatosis,Antifungal Cream,Protein deficiency,Moderate,26,Yes,Yes,No,Yes,0
@@ -998,4 +998,3 @@ Id,Genetics,Hormonal Changes,Medical Conditions,Medications & Treatments,Nutriti
 143273,No,Yes,Androgenetic Alopecia,Antidepressants ,Protein deficiency,Moderate,20,Yes,No,Yes,Yes,1
 169123,No,Yes,Dermatitis,Immunomodulators,Biotin Deficiency ,Moderate,32,Yes,Yes,Yes,Yes,1
 127183,Yes,Yes,Psoriasis,Blood Pressure Medication,Vitamin D Deficiency,Low,34,No,Yes,No,No,1
-
